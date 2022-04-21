@@ -1,0 +1,27 @@
+{
+    "name": "bmapgllibs",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.min.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/YangJianFei/bmapgllibs.git"
+    },
+    "author": "YangJianFei <1294485765@qq.com>",
+    "license": "MIT",
+    "keywords": [
+        "baidu",
+        "BMapGLLib",
+        "map",
+        "baidu-map",
+        "distance",
+        "tool"
+    ],
+    "bugs": {
+        "url": "https://github.com/YangJianFei/bmapgllibs/issues"
+    },
+    "homepage": "https://github.com/YangJianFei/bmapgllibs#readme"
+}
